@@ -36,6 +36,6 @@
 ### 📫 Me contacter
 
 <p align="left">
-  <a href="mailto:ton.email@exemple.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/ton-profil"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:2kange.eli@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/angekouassi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
